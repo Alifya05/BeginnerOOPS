@@ -3,7 +3,7 @@ package org.example.oops_1;
 public class Main {
     public static void main(String[] args) {
         Student s1 = new Student();
-        s1.name = "Alifya";
+        s1.name = "XYZ";
         s1.age = 25;
         s1.psp = 93;
         s1.changeBatch();

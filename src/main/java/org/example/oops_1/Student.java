@@ -17,8 +17,8 @@ public class Student {
     }
 
     void printdetails(){
-        System.out.println("Name :"+name);
-        System.out.println("Age :" +age);
+        System.out.println("name :"+name);
+        System.out.println("age :" +age);
         System.out.println("PSP :" +psp);
     }
 }

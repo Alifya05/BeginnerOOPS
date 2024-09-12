@@ -7,6 +7,7 @@ public class Scenario3 {
 }
 
 class AAA {
+
     public AAA() {
         System.out.println("AAA");
     }

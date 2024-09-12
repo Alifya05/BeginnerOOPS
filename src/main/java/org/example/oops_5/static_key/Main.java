@@ -39,7 +39,7 @@ class Animal{
     public static void printAge()
     {
         System.out.println(age);
-        System.out.println(name);
+
     }
 
 

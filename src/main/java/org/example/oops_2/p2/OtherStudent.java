@@ -6,7 +6,7 @@ public class OtherStudent extends NewStudent {
 
    public void printName()
    {
-       name = "Aryan";
+       name = "AKMUS";
        coursepause();
 
    }

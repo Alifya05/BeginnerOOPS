@@ -3,6 +3,7 @@ package org.example.oops_4;
 import java.util.Random;
 
 public class RealLifeScenario {
+
     public static void main(String[] args) {
 
         for(int i = 0;i<10;i++)
@@ -27,6 +28,7 @@ public static User getObj() {
 
 
 class User{
+
     String username;
     String password;
 
@@ -41,6 +43,7 @@ class Instructor extends User{
 
     @Override
     void login() {
+
         System.out.println(username + " is Instructor and trying to login");
     }
 }
@@ -49,6 +52,7 @@ class Student extends User{
 
     @Override
     void login() {
+
         System.out.println(username + " is Student and trying to login");
     }
 }

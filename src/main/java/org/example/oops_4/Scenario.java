@@ -3,6 +3,7 @@ package org.example.oops_4;
 import java.util.Random;
 
 public class Scenario {
+
     public static void main(String[] args) {
         A a = new C();
         a.print();
@@ -33,6 +34,7 @@ public class Scenario {
 
 
 class A{
+
     void print(){
         System.out.println("A");
     }
